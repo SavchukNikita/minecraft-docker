@@ -1,4 +1,5 @@
 .env
 data/
 mods/*.jar
-!mods/.gitkeep
+mods/.gitkeep
+.DS_Store
