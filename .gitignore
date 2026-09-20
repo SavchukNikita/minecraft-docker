@@ -1,0 +1,4 @@
+.env
+data/
+mods/*.jar
+!mods/.gitkeep
